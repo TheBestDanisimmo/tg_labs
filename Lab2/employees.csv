@@ -1,0 +1,17 @@
+name,department,position,email,phone,hire_date
+Олег Арсипов,Руководство,Генеральный директор,oleg.arsipov@tochno.oleg.com,+7923725XXXX,2023-01-15
+Иванов Иван,Продажи,Старший менеджер по продажам,ivanov1@tralalelo.com,+7923725XXXX,2023-02-20
+Петрова Анна,Маркетинг,Ведущий маркетолог,petrova@tralalelo.com,+7923725XXXX,2023-03-10
+Сидоров Михаил,IT,Разработчик Python,sidorov@tralalelo.com,+7923725XXXX,2023-04-05
+Васильева Ирина,HR,HR-менеджер,vasilieva@tralalelo.com,+7923725XXXX,2023-05-12
+Кузнецов Пётр,Продажи,Менеджер по продажам,kuznetsov@tralalelo.com,+7923725XXXX,2023-06-18
+Соколова Дарья,Маркетинг,SMM-специалист,sokolova@tralalelo.com,+7923725XXXX,2023-07-22
+Андреев Роман,IT,DevOps инженер,andreev@tralalelo.com,+7923725XXXX,2023-08-30
+Егорова Мария,Поддержка,Специалист поддержки,egorova@tralalelo.com,+7923725XXXX,2023-09-14
+Ахмедов Али,Аналитика,Аналитик данных,ahmedov@tralalelo.com,+7923725XXXX,2023-10-02
+name,department,position,email,phone,hire_date
+Олег Арсипов,Руководство,Генеральный директор,oleg.arsipov@tochno.oleg.com,+79237250708,2023-01-15
+Иванов Иван,Продажи,Менеджер по продажам,ivanov1@tralalelo.com,+79237250404,2023-02-20
+Петрова Анна,Маркетинг,Маркетолог,petrova@tralalelo.com,+79237250303,2023-03-10
+Сидоров Михаил,IT,Разработчик,sidorov@tralalelo.com,+79237250202,2023-04-05
+
